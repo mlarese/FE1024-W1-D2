@@ -6,5 +6,6 @@ public class Pizza {
     private String nome;
     private String ingredienti;
     private double costo;
-    protected int calorie;
+    private int calorie;
+    private String tipo; // bianca , rossa, battutta
 }
